@@ -1,0 +1,19 @@
+.datahometitle{
+    font-size: 65px;
+    color: dimgray;
+    color: dodgerblue;
+}
+.datahomearticle{
+    color: slategrey;
+    font-weight: 100rem;
+}
+.datahomeimg{
+    border-radius: 10px;
+    
+}
+@media (max-width: 768px) {
+    .datahomeimg{
+        width: 450px;
+    }
+}
+

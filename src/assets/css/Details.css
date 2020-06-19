@@ -1,0 +1,116 @@
+.nav.nav-tabs {
+    float: left;
+    display: block;
+    margin-right: 20px;
+    border-bottom:0;
+    border-right: 1px solid #007bff;
+    padding-right: 15px;
+}
+.nav-item{
+    font-size: 20px;
+}
+.imgresponsive{
+    width: 700px;
+    max-width: 400;
+    height: auto;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    background:ghostwhite
+}
+
+.nav-tabs .nav-link.active {
+    color: ghostwhite;
+    background-color:#007bff !important;
+    border-color: transparent !important;
+}
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: 0rem!important;
+    border-top-right-radius: 0rem!important;
+}
+.tab-content.active {
+    display: block;
+    background: white;
+    min-height: 165px;
+}
+.nav.nav-tabs {
+    float: left;
+    display: block;
+    margin-right: 20px;
+    border-bottom: 0;
+    border-right: 1px solid transparent;
+    padding-right: 15px;
+}
+button{
+    width: 320px;
+    border: none;
+    background-color: lightskyblue;
+    text-align: left;
+    font-size: 20px;
+}
+.dropdown-toggle{
+    text-align: Left;
+    background:ghostwhite
+}
+.dropdown-toggle:active{
+    text-align: Left;
+    background-color:#007bff !important;
+    border-radius: 1px;
+}
+.dropdown-toggle:hover{
+    text-align: Left;
+    border-radius: 1px;
+    
+}
+.PDF{
+    font-size: 20px;
+    color: #007bff ;
+}
+.dropdown-menu{
+    width: 475px;
+    border: none;
+    background:ghostwhite;
+    text-align: left;
+    font-size: 20px;
+}
+.dropdown-menu{
+    width: 315px;
+    border: none;
+    background:ghostwhite;
+    text-align: left;
+    font-size: 20px;
+}
+button{
+    border: none !important;
+}
+li {
+    list-style: none;
+}
+@media screen and (max-width:768px){
+    .imgresponsive{
+        max-width: 500px;
+    }
+    .nav.nav-tabs {
+       padding: 12px;
+     width: 498px;
+    }
+    button{
+        width: 475px;
+        border: none;
+        background-color: lightskyblue;
+        text-align: left;
+    }
+    .dropdown-menu{
+        width: 475px;
+        border: none;
+        background:ghostwhite;
+        text-align: left;
+        font-size: 20px;
+    }
+} 
+ 
+
+ 

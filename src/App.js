@@ -1,26 +1,36 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import React, { Component } from 'react';
+// import component
+import Navbar from './components/Navbar';
+import Carousel from './components/Carousel';
+import Footer from './components/Footer';
+// import pages
+import Home from '../src/pages/Home';
+import NotFoundPage from '../src/pages/Error';
+import Details from '../src/pages/Details';
+import Contact from '../src/pages/Contact';
+import Mission from '../src/pages/Missions'
+import News from '../src/pages/News';
+
+import{Switch,Route} from 'react-router-dom';
+class App extends Component{
+  render(){
+    return (
+    <div>
+        <Navbar/>
+          <Carousel/>
+           <Switch>
+             <Route path="/" exact component={Home}/>
+             <Route path="/Home" exact component={Home}/>
+             <Route path="/Details" exact component={Details}/>
+             <Route path="/Contact" exact component={Contact}/>
+             <Route path="/Mission" exact component={Mission}/>
+             <Route path="/News" exact component={News}/>
+             <Route component={NotFoundPage}/>
+            </Switch>
+          <Footer/> 
     </div>
-  );
+    );
+  }
 }
-
 export default App;

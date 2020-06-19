@@ -1,0 +1,56 @@
+.fa-html5{
+    color: #007bff
+}
+.fa-css3{
+    color: orangered;
+}
+.fa-js{
+    color: orange;
+}
+.fa-bootstrap{
+    color: purple;
+}
+.fa-sass{
+    color: violet;
+}
+.fa-react{
+    color: #007bff; 
+}
+.fa-github{
+    color: black; 
+}
+.fa-adobe{
+    color: tomato;    
+}
+.box-part{
+    padding:50px !important;
+}
+.basictitle{
+    background-color: #007bff;
+}
+.container-fuild{
+    align-self: center;
+}
+.skilldescription{
+    font-size: 12px;
+    color: dimgrey;
+}
+.skilltools{
+    color:  #007bff;
+    font-size: 25px;
+}
+.box{
+    background-color: ghostwhite;
+}
+.titleskill{
+    font-size: 50px;
+    padding: 10px;
+    text-align: center;
+    color: #ffa500;
+}
+.descriptionskill{
+    text-align: center;
+    font-size: 20px;
+    padding: 0px;
+    color: #007bff;
+}
