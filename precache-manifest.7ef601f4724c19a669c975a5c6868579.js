@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18ad0ba159a14b317b215e7c3fdab187",
+    "revision": "3c34c8b4ff021714822da66ec87a2ec1",
     "url": "/matplaza.ph/index.html"
   },
   {
-    "revision": "f7aa0c78b381332b716c",
-    "url": "/matplaza.ph/static/css/main.1fae554e.chunk.css"
+    "revision": "1f4b3b1360e960631ec7",
+    "url": "/matplaza.ph/static/css/main.bfbcbea5.chunk.css"
   },
   {
-    "revision": "9b54a8e6693471bddbe2",
-    "url": "/matplaza.ph/static/js/2.8e2876cf.chunk.js"
+    "revision": "aaacc9d8bb976e309990",
+    "url": "/matplaza.ph/static/js/2.36dac955.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/matplaza.ph/static/js/2.8e2876cf.chunk.js.LICENSE.txt"
+    "url": "/matplaza.ph/static/js/2.36dac955.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f7aa0c78b381332b716c",
-    "url": "/matplaza.ph/static/js/main.84f564be.chunk.js"
+    "revision": "1f4b3b1360e960631ec7",
+    "url": "/matplaza.ph/static/js/main.03b1f9b8.chunk.js"
   },
   {
     "revision": "cedfb9e0a1f8e52d6dfe",
@@ -26,6 +26,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e114e2ec82c15d2509f0ff963f79af3e",
     "url": "/matplaza.ph/static/media/ARCHITECT.e114e2ec.jpg"
+  },
+  {
+    "revision": "263875da0af1c8db2d4b106c984bec17",
+    "url": "/matplaza.ph/static/media/Furniture.263875da.gif"
+  },
+  {
+    "revision": "8919d259b408da5ef4922d7886179c3c",
+    "url": "/matplaza.ph/static/media/Furnituretop.8919d259.gif"
   },
   {
     "revision": "4b00a2df8cbbc8eb37b210e16903d964",
@@ -44,8 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/media/Sanitary.2684680a.JPG"
   },
   {
+    "revision": "01ee286c2d25fe7be91518273c357707",
+    "url": "/matplaza.ph/static/media/UPVC.01ee286c.jpg"
+  },
+  {
     "revision": "94c0d5a96a46cebe33cc5d59db0a51e7",
     "url": "/matplaza.ph/static/media/VICE.94c0d5a9.JPG"
+  },
+  {
+    "revision": "9d1e810cbed10440c7c2804292cc71cc",
+    "url": "/matplaza.ph/static/media/automation.9d1e810c.jpg"
   },
   {
     "revision": "31d645dba72e5ef3cda0bcd1c0052b4c",
@@ -58,6 +74,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "37818295604d9686d50990e480f3d679",
     "url": "/matplaza.ph/static/media/board.37818295.jpg"
+  },
+  {
+    "revision": "4dcf7f35c901f40af49ec26432d66c5a",
+    "url": "/matplaza.ph/static/media/boardcontent.4dcf7f35.gif"
+  },
+  {
+    "revision": "526d14a12de86e4e061b38b7606eeef8",
+    "url": "/matplaza.ph/static/media/boardtop.526d14a1.gif"
   },
   {
     "revision": "06ab33ae3e2cbae0f509cd05f2ee6793",
@@ -88,6 +112,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/media/eye.07d008a8.png"
   },
   {
+    "revision": "b615802b97f9fb91be54ab017c9a3934",
+    "url": "/matplaza.ph/static/media/fired.b615802b.jpg"
+  },
+  {
     "revision": "638361fefae8fa87abc308af24ec770b",
     "url": "/matplaza.ph/static/media/firedoor.638361fe.JPG"
   },
@@ -116,8 +144,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/media/office.69f7788e.jpg"
   },
   {
+    "revision": "627854ebfe6a989518821713abf27e9b",
+    "url": "/matplaza.ph/static/media/sanitarycontent.627854eb.jpg"
+  },
+  {
     "revision": "91ecccc41c5c16e6764cb5c801b50cb8",
     "url": "/matplaza.ph/static/media/stone.91ecccc4.jpg"
+  },
+  {
+    "revision": "c6f2685568f4b398fb3d1902a0b311ad",
+    "url": "/matplaza.ph/static/media/stonecontent.c6f26855.gif"
+  },
+  {
+    "revision": "79ea3a2e0c5e64501ed71198060516b0",
+    "url": "/matplaza.ph/static/media/stonetop.79ea3a2e.gif"
   },
   {
     "revision": "41e3ea7adc1115aaf5d98d160e8d8b33",
@@ -128,7 +168,23 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/media/terracotta.812c8955.jpg"
   },
   {
+    "revision": "617454b747ef05e07a0d6ce57d56ba1a",
+    "url": "/matplaza.ph/static/media/terracottacontent.617454b7.gif"
+  },
+  {
+    "revision": "b52131a902c775b42c3c56fca7db74ae",
+    "url": "/matplaza.ph/static/media/terracottatop.b52131a9.gif"
+  },
+  {
     "revision": "b59180894191dbb1f76adbf788fb7318",
     "url": "/matplaza.ph/static/media/tile.b5918089.JPG"
+  },
+  {
+    "revision": "f63f0f79394cadc8086f45bd600d67ea",
+    "url": "/matplaza.ph/static/media/tilecontent.f63f0f79.gif"
+  },
+  {
+    "revision": "997b4834cd7d24eb0c21334bedfd2f53",
+    "url": "/matplaza.ph/static/media/tiletop.997b4834.gif"
   }
 ]);
