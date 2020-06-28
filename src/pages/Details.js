@@ -1,5 +1,19 @@
 import React, { Component } from 'react';
 import '../assets/css/Details.css';
+import  Furnituretop from "../images/imagedetails/Furnituretop.gif";
+import  Furniture from "../images/imagedetails/Furniture.gif";
+import  stonetop from "../images/imagedetails/stonetop.gif";
+import  stonecontent from "../images/imagedetails/stonecontent.gif";
+import  tiletop from "../images/imagedetails/tiletop.gif";
+import  tilecontent from "../images/imagedetails/tilecontent.gif";
+import  boardtop from "../images/imagedetails/boardtop.gif";
+import  boardcontent from "../images/imagedetails/boardcontent.gif";
+import  sanitarycontent from "../images/imagedetails/sanitarycontent.jpg";
+import  UPVC from "../images/imagedetails/UPVC.jpg";
+import  terracottatop from "../images/imagedetails/terracottatop.gif"
+import  terracottacontent from "../images/imagedetails/terracottacontent.gif"
+import  fired from "../images/imagedetails/fired.jpg"
+import  automation from "../images/imagedetails/automation.jpg"
 
 class Details extends Component {
     render() {
@@ -63,43 +77,43 @@ class Details extends Component {
                 <div className="col-md-6 mt-2 ">
                 <div className="tab-content">
                     <div className="tab-pane active" id="tab-1" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/Furnituretop.gif'/>
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/Furniture.gif'/>
+                        <img alt="" className="imgresponsive" src={Furnituretop}/>
+                        <img alt="" className="imgresponsive" src={Furniture}/>
                     </div>
                     <div className="tab-pane" id="tab-2" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/stonetop.gif'/>
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/stonecontent.gif'/>
+                        <img alt="" className="imgresponsive" src={stonetop}/>
+                        <img alt="" className="imgresponsive" src={stonecontent}/>
                     </div>
 
                     <div className="tab-pane" id="tab-3" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/tiletop.gif'/>
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/tilecontent.gif'/>
+                        <img alt="" className="imgresponsive" src={tiletop}/>
+                        <img alt="" className="imgresponsive" src={tilecontent}/>
                     </div>
 
                     <div className="tab-pane" id="tab-4" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/boardtop.gif'/>
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/boardcontent.gif'/>
+                        <img alt="" className="imgresponsive" src={boardtop}/>
+                        <img alt="" className="imgresponsive" src={boardcontent}/>
                     </div>
 
                     <div className="tab-pane" id="tab-5" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/sanitarycontent.jpg'/>
+                        <img alt="" className="imgresponsive" src={sanitarycontent}/>
                     </div>
 
                     <div className="tab-pane" id="tab-6" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/UPVC.jpg'/>
+                        <img alt="" className="imgresponsive" src={UPVC}/>
                     </div>
 
                     <div className="tab-pane" id="tab-7" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/terracottatop.gif'/>
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/terracottacontent.gif'/>
+                        <img alt="" className="imgresponsive" src={terracottatop}/>
+                        <img alt="" className="imgresponsive" src={terracottacontent}/>
                     </div>
 
                     <div className="tab-pane" id="tab-8" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/fired.jpg'/>
+                        <img alt="" className="imgresponsive" src={fired}/>
                     </div>
 
                     <div className="tab-pane" id="tab-9" role="tabpanel">
-                        <img alt="" className="imgresponsive" src='../images/imagedetails/automation.jpg'/>
+                        <img alt="" className="imgresponsive" src={automation}/>
                     </div>
 
                     <div className="tab-pane" id="tab-10" role="tabpanel">
