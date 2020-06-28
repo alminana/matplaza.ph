@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/matplaza.ph/precache-manifest.be6bbadb5241299e8ee79e852e551c36.js"
+  "/matplaza.ph/precache-manifest.48281ed888c08266150defa8cef5784b.js"
 );
 
 self.addEventListener('message', (event) => {
