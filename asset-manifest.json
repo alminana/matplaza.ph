@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/matplaza.ph/static/css/main.af765c5e.chunk.css",
-    "main.js": "/matplaza.ph/static/js/main.aa2c828c.chunk.js",
-    "main.js.map": "/matplaza.ph/static/js/main.aa2c828c.chunk.js.map",
+    "main.css": "/matplaza.ph/static/css/main.1fae554e.chunk.css",
+    "main.js": "/matplaza.ph/static/js/main.84f564be.chunk.js",
+    "main.js.map": "/matplaza.ph/static/js/main.84f564be.chunk.js.map",
     "runtime-main.js": "/matplaza.ph/static/js/runtime-main.ca0765e3.js",
     "runtime-main.js.map": "/matplaza.ph/static/js/runtime-main.ca0765e3.js.map",
     "static/js/2.8e2876cf.chunk.js": "/matplaza.ph/static/js/2.8e2876cf.chunk.js",
     "static/js/2.8e2876cf.chunk.js.map": "/matplaza.ph/static/js/2.8e2876cf.chunk.js.map",
     "index.html": "/matplaza.ph/index.html",
-    "precache-manifest.edca17f65fc588e794bf3845d3df0152.js": "/matplaza.ph/precache-manifest.edca17f65fc588e794bf3845d3df0152.js",
+    "precache-manifest.890f0200133bff2d1a0e6d5169046aad.js": "/matplaza.ph/precache-manifest.890f0200133bff2d1a0e6d5169046aad.js",
     "service-worker.js": "/matplaza.ph/service-worker.js",
-    "static/css/main.af765c5e.chunk.css.map": "/matplaza.ph/static/css/main.af765c5e.chunk.css.map",
+    "static/css/main.1fae554e.chunk.css.map": "/matplaza.ph/static/css/main.1fae554e.chunk.css.map",
     "static/js/2.8e2876cf.chunk.js.LICENSE.txt": "/matplaza.ph/static/js/2.8e2876cf.chunk.js.LICENSE.txt",
     "static/media/ARCHITECT.jpg": "/matplaza.ph/static/media/ARCHITECT.e114e2ec.jpg",
     "static/media/PRESIDENT.JPG": "/matplaza.ph/static/media/PRESIDENT.4b00a2df.JPG",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca0765e3.js",
     "static/js/2.8e2876cf.chunk.js",
-    "static/css/main.af765c5e.chunk.css",
-    "static/js/main.aa2c828c.chunk.js"
+    "static/css/main.1fae554e.chunk.css",
+    "static/js/main.84f564be.chunk.js"
   ]
 }
