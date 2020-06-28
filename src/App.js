@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 // import component
 import Navbar from './components/Navbar';
-import Carousel from './components/Carousel';
+
 import Footer from './components/Footer';
 // import pages
 import Home from '../src/pages/Home';
@@ -18,7 +18,7 @@ class App extends Component{
     return (
     <div>
         <Navbar/>
-          <Carousel/>
+         
            <Switch>
              <Route path="/" exact component={Home}/>
              <Route path="/Home" exact component={Home}/>

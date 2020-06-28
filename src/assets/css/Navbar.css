@@ -1,0 +1,144 @@
+#root{
+    
+      overflow-y: hidden;
+      /* background-image: none; */
+}
+.header-section{
+      position: fixed;
+      width: 100%;
+      z-index: 9;  
+}
+ .carousel-item span{
+       position: absolute;
+       top:15rem;
+ }
+ .animate__animated{
+       font-size: 40px;
+       font-weight: bold;
+ }
+ .carousel-content p{
+      position: absolute;
+      top:19rem;
+      align-items:center;
+      color: white;
+ }
+
+.carousel-item img{
+      width: 95rem;
+      height:600px;
+}    
+.menu ul li {
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px 10px;
+    font-weight: bold;
+}
+
+.menu ul li Link {
+    color: #111E6C !important;
+}
+
+.black{
+      background: #111E6C;
+      box-shadow: 0px 1px 7px 1px #111e6cc2;
+}
+
+
+.hero-content h1{
+      color: #007bff;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size:60px;
+      text-align: left;
+      padding: 300px;
+}
+
+.content {
+      margin: 4em auto;
+      font-size: 20px;
+      line-height: 30px;
+      text-align: justify;
+      z-index: 1;
+}
+.navbar-toggler:focus{
+      outline:none;
+}
+.navbar-toggler{
+      border:none;
+}
+
+.header-content{
+      position: absolute;
+      top:320px;
+}
+.header-content h1{
+      color: dodgerblue !important;
+      font-size: 55px;
+}
+h4{
+      color: dodgerblue !important;
+      font-size: 50px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.navbar-brand img{
+      width: 200px;
+}
+.carousel-item{
+      top:50px;
+}
+@media(max-width: 786px) {
+      .header-section{
+            background: #111E6C;
+            box-shadow: 0px 1px 7px 1px #111e6cc2;
+      }
+      .menu ul li a {
+          text-align: center;
+      }
+      .showing {
+            max-height: 35em;
+      }
+      .menu-icon {
+            display: block;
+      }
+      .custom-navbar button:focus {
+            outline: none;
+      }
+      .custom-navbar .navbar-toggler-icon i {
+            color: #fff;
+            font-size: 24px;
+      }
+      .custom-navbar .navbar-toggler-icon {
+            text-align: center;
+            line-height: 30px;
+      }
+      .hero-section{
+            width: 545px;
+            height: 50vh;
+         
+            background-size: cover;
+            position: relative;
+            z-index: 2;
+      }
+      .navbar-toggler{
+            width: 15px;
+      }
+      .header-content{
+            position: absolute;
+            top:123px;
+      }
+      .header-content h1{
+            color: dodgerblue !important;
+            font-size: 30px;
+      }
+      h4{
+            color: dodgerblue !important;
+            font-size: 30px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+      }
+      .carousel-item img{
+            width: 550px;
+            height:600px;
+      }     
+}
+
