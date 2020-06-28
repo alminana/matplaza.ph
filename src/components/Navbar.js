@@ -91,7 +91,6 @@ import logo from '../images/LOGO.png';
                         <div className="carousel-content container">
                             <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
                             <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
-                            <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                         </div>
                         </div>
                     </div>
@@ -103,7 +102,7 @@ import logo from '../images/LOGO.png';
                         <div className="carousel-content container">
                         <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
                             <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
-                            <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+
                         </div>
                         </div>
                     </div>
@@ -115,7 +114,7 @@ import logo from '../images/LOGO.png';
                         <div className="carousel-content container">
                         <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
                             <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
-                            <a href="#about" className="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                           
                         </div>
                         </div>
                     </div>

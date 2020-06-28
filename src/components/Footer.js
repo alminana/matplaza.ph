@@ -8,7 +8,7 @@ class Footer extends Component {
    
     <footer id="dk-footer" className="dk-footer">
     
-                <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.8995400727295!2d121.04954931431962!3d14.547737082271366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c9611f9dd093%3A0x39a3166c5d87e236!2sMatplaza%20Philippines%2C%20Inc.%2FKLC%20Philippines%20Corp.!5e0!3m2!1sen!2ssa!4v1591560654330!5m2!1sen!2ssa" width="1500" height="500" frameborder="0"  allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                <iframe title="map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3861.8995400727295!2d121.04954931431962!3d14.547737082271366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397c9611f9dd093%3A0x39a3166c5d87e236!2sMatplaza%20Philippines%2C%20Inc.%2FKLC%20Philippines%20Corp.!5e0!3m2!1sen!2ssa!4v1591560654330!5m2!1sen!2ssa" width="1900" height="500" frameborder="0"  allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
         <div className="container">
             <div className="row">
                 <div className="col-md-12 col-lg-4">
