@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d31deae2a6f49e0d0b2ebf1101332faf",
+    "revision": "1fd3b8b4709a06c58f513f31c44b1a61",
     "url": "/matplaza.ph/index.html"
   },
   {
-    "revision": "be42d04448fd99de3201",
-    "url": "/matplaza.ph/static/css/main.f55bada9.chunk.css"
+    "revision": "6a06e369a85ceb3da8c9",
+    "url": "/matplaza.ph/static/css/main.9edac3e0.chunk.css"
   },
   {
     "revision": "aaacc9d8bb976e309990",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/js/2.36dac955.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be42d04448fd99de3201",
+    "revision": "6a06e369a85ceb3da8c9",
     "url": "/matplaza.ph/static/js/main.f26f242a.chunk.js"
   },
   {
