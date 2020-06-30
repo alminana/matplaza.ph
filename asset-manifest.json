@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/matplaza.ph/static/css/main.b4573ae2.chunk.css",
+    "main.css": "/matplaza.ph/static/css/main.f3d53c8c.chunk.css",
     "main.js": "/matplaza.ph/static/js/main.d7fb55ef.chunk.js",
     "main.js.map": "/matplaza.ph/static/js/main.d7fb55ef.chunk.js.map",
     "runtime-main.js": "/matplaza.ph/static/js/runtime-main.ca0765e3.js",
@@ -8,9 +8,9 @@
     "static/js/2.36dac955.chunk.js": "/matplaza.ph/static/js/2.36dac955.chunk.js",
     "static/js/2.36dac955.chunk.js.map": "/matplaza.ph/static/js/2.36dac955.chunk.js.map",
     "index.html": "/matplaza.ph/index.html",
-    "precache-manifest.96e06667c4ebb282cd8013e167c4adbf.js": "/matplaza.ph/precache-manifest.96e06667c4ebb282cd8013e167c4adbf.js",
+    "precache-manifest.4657fb4ace45101e2cd70d16372763c5.js": "/matplaza.ph/precache-manifest.4657fb4ace45101e2cd70d16372763c5.js",
     "service-worker.js": "/matplaza.ph/service-worker.js",
-    "static/css/main.b4573ae2.chunk.css.map": "/matplaza.ph/static/css/main.b4573ae2.chunk.css.map",
+    "static/css/main.f3d53c8c.chunk.css.map": "/matplaza.ph/static/css/main.f3d53c8c.chunk.css.map",
     "static/js/2.36dac955.chunk.js.LICENSE.txt": "/matplaza.ph/static/js/2.36dac955.chunk.js.LICENSE.txt",
     "static/media/ARCHITECT.jpg": "/matplaza.ph/static/media/ARCHITECT.e114e2ec.jpg",
     "static/media/Furniture.gif": "/matplaza.ph/static/media/Furniture.263875da.gif",
@@ -52,7 +52,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca0765e3.js",
     "static/js/2.36dac955.chunk.js",
-    "static/css/main.b4573ae2.chunk.css",
+    "static/css/main.f3d53c8c.chunk.css",
     "static/js/main.d7fb55ef.chunk.js"
   ]
 }
