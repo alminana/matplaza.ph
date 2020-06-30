@@ -212,13 +212,14 @@ p {
 .copyright-menu ul {
   text-align: center;
   margin: 0; }
-  iframe{
-    width: 100%;
-  }
+ 
+
 /* .copyright-menu li {
   display: inline-block;
   padding-left: 20px; } */
-
+  .responsive{
+    width: 100%;
+  }
 .back-to-top {
   position: relative;
   z-index: 2; } */
@@ -241,7 +242,9 @@ p {
       cursor: pointer;
       background: #FA6742;
       border-color: #FA6742; }
-
+      .mapsize{
+        width: 1500px;
+      }
       @media(max-width: 786px){
         .dk-footer-box-info {
           position: absolute;
@@ -257,7 +260,7 @@ p {
             #root{
             overflow-x: hidden;
           }
-          iframe {
-            width: 35rem;
+          .responsive {
+            width: 100%;
           }
       }

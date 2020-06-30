@@ -86,7 +86,7 @@ import logo from '../images/LOGO.png';
 
                 
                     <div className="carousel-item active">
-                        <img alt="banner" src={banner}/>
+                        <img alt="banner" className="responsive" src={banner}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
                             <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
@@ -97,7 +97,7 @@ import logo from '../images/LOGO.png';
 
             
                     <div className="carousel-item">
-                    <img alt="banner" src={banner1}/>
+                    <img alt="banner" className="responsive" src={banner1}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
                         <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
@@ -109,7 +109,7 @@ import logo from '../images/LOGO.png';
 
                     
                     <div className="carousel-item">
-                    <img alt="banner" src={banner3}/>
+                    <img alt="banner" className="responsive" src={banner3}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
                         <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
