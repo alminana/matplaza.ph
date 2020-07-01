@@ -14,7 +14,7 @@ import ARCHITECT from '../images/ARCHITECT.jpg';
 import furniture from '../images/homeimages/furniture.jpg';
 
 import firedoor from '../images/homeimages/firedoor.JPG';
-import home_automation from '../images/homeimages/home_automation.jpg';
+// import home_automation from '../images/homeimages/home_automation.jpg';
 import PVC from '../images/homeimages/PVC.jpg';
 import Sanitary from '../images/homeimages/Sanitary.JPG';
 import terracotta from '../images/homeimages/terracotta.jpg';
@@ -267,6 +267,8 @@ class Home extends Component {
                     </div>  
               </div>
 
+         
+
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
               <div className="row">
                       <div className="col-md-12">
@@ -290,14 +292,13 @@ class Home extends Component {
                       </div>
                     </div>  
               </div>
-
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
               <div className="row">
                       <div className="col-md-12">
                         <div className="row">
                           <div className="col-md-4">
                             <figure className="gallery__item img-responsive">
-                              <img className="gallery__img img-responsive" src={home_automation} alt="img1" />
+                              <img className="gallery__img img-responsive" src={firedoor} alt="img1" />
                                 <figcaption className="gallery__summary">
                                 <h2 className="gallery__title">HOME AUTOMATION<br></br>
                                   <Link 

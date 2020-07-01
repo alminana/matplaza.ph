@@ -238,63 +238,7 @@ color: gray;
 }
 
 /* Media queries */
-@media screen and (max-width: 687px) {
-
-	.gallery__item {
-		position: relative;
-		margin: 0;
-		min-width: 510px;
-		/* max-height: 500px; */
-		width: 400%;
-		height: auto;
-		overflow: hidden;
-		background: #3085a3;
-		text-align: center;
-		cursor: pointer;
-		border-radius: 10px;
-	}
-	.gallery {
-		display: block;
-        flex-wrap: column;
-		justify-content: center;
-		align-self: center;
-		width: 900px;
-	}
-
-    .gallery__item {
-		width: 510rem;
-		align-items: center;
-		align-self: center;
-	}
-
-	.gallery__img{
-		height: 250px;
-		width: 550px !important;
-	}
-	  #section-one {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 500px 100px;
-		background-color: white;
-		padding:10px;
-	  }
-	  img{
-		  border-radius: 10px;
-	  }
-	.gallery__summary {
-		/* padding: 2em; */
-		color: #fff;
-		text-transform: uppercase;
-		font-size: 1.2em;
-		-webkit-backface-visibility: hidden;
-		backface-visibility: hidden;
-		box-sizing: border-box;
-		top: 0px;
-	}		
-}
-
+@media (max-width: 768px) {}
 
 .section-one{
 	align-items: center;
