@@ -15,7 +15,7 @@ import  terracottatop from "../images/imagedetails/terracottatop.gif";
 import  terracottacontent from "../images/imagedetails/terracottacontent.gif";
 import  fired from "../images/imagedetails/fired.jpg";
 import  automation from "../images/imagedetails/automation.jpg";
-import F06Y from "../Files/BOARDS_EN/MELAMINE (F06Y) LPM.pdf";
+import F06Y from "../Files/BOARDS_EN/MELAMINE.pdf";
 class Details extends Component {
     render() {
         return (
@@ -132,7 +132,7 @@ class Details extends Component {
                         <tr>
                           <td>1</td>
                           <td>MELAMINE (F06Y) LPM</td>
-                          <td><Link to={F06Y}>Download</Link></td>
+                          <td><Link to="../Files/BOARDS_EN/MELAMINE.pdf">Download</Link></td>
                         </tr>
                         <tr>
                           <td>2</td>

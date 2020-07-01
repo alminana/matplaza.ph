@@ -89,8 +89,8 @@ import logo from '../images/LOGO.png';
                         <img alt="banner" className="responsive" src={banner}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
-                            <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
-                            <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
+                            {/* <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2> */}
+                            {/* <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p> */}
                         </div>
                         </div>
                     </div>
@@ -100,8 +100,8 @@ import logo from '../images/LOGO.png';
                     <img alt="banner" className="responsive" src={banner1}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
-                        <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
-                            <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
+                        {/* <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2> */}
+                            {/* <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p> */}
 
                         </div>
                         </div>
@@ -112,8 +112,8 @@ import logo from '../images/LOGO.png';
                     <img alt="banner" className="responsive" src={banner3}/>
                         <div className="carousel-container">
                         <div className="carousel-content container">
-                        <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2>
-                            <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p>
+                        {/* <h2 className="animate__animated animate__fadeInDown"><span>MATPLAZA</span></h2> */}
+                            {/* <p className="animate__animated animate__fadeInUp">CREATING A TRENDY CONTEMPORARY APPEAL</p> */}
                            
                         </div>
                         </div>

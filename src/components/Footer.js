@@ -73,16 +73,16 @@ class Footer extends Component {
                                 </div>
                                 <ul>
                                     <li>
-                                        <Link href="#">About us</Link>
+                                        <Link to="/">About us</Link>
                                     </li>
                                     <li>
-                                        <Link href="#">Product</Link>
+                                        <Link to="/Details">Product</Link>
                                     </li>
                                     <li>
-                                        <Link href="#">Contact</Link>
+                                        <Link to="/Contact">Contact</Link>
                                     </li>
                                     <li>
-                                        <Link href="#">Our Team</Link>
+                                        <Link to="/">Our Team</Link>
                                     </li>
                                 </ul>
                             </div>
@@ -100,16 +100,16 @@ class Footer extends Component {
                                     <div className="contact">
                                         <ul>
                                             <li>
-                                                <Link href="#">Furniture</Link>
+                                                <Link to="/Details">Furniture</Link>
                                             </li>
                                             <li>
-                                                <Link href="#">Stone</Link>
+                                                <Link to="/Details">Stone</Link>
                                             </li>
                                             <li>
-                                                <Link href="#">Board</Link>
+                                                <Link to="/Details">Board</Link>
                                             </li>
                                             <li>
-                                                <Link href="#">Sanitary</Link>
+                                                <Link to="/Details">Sanitary</Link>
                                             </li>
                                           
                                         </ul>
@@ -119,16 +119,16 @@ class Footer extends Component {
                                             <div className="contact">
                                                 <ul>
                                                     <li>
-                                                        <Link href="#">Door & Windows</Link>
+                                                        <Link to="/Details">Door & Windows</Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="#">Terracotta</Link>
+                                                        <Link to="/Details">Terracotta</Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="#">Fire Steel Door</Link>
+                                                        <Link to="/Details">Fire Steel Door</Link>
                                                     </li>
                                                     <li>
-                                                        <Link href="#">Automation System</Link>
+                                                        <Link to="/Details">Automation System</Link>
                                                     </li>
                                                 
                                                 </ul>
