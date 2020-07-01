@@ -91,14 +91,14 @@ li {
 }
 @media screen and (max-width:768px){
     .imgresponsive{
-        width: 330px;
+        width: 100%;
     }
     .nav.nav-tabs {
        padding: 12px;
-       width: 330px;
+       width:390px;
     }
     button{
-        width: 330px;
+         width:359px;
         border: none;
         background-color: lightskyblue;
         text-align: left;

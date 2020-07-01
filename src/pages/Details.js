@@ -15,7 +15,7 @@ import  terracottatop from "../images/imagedetails/terracottatop.gif";
 import  terracottacontent from "../images/imagedetails/terracottacontent.gif";
 import  fired from "../images/imagedetails/fired.jpg";
 import  automation from "../images/imagedetails/automation.jpg";
-import F06Y from "../Files/BOARDS_EN/MELAMINE.pdf";
+// import F06Y from "../Files/BOARDS_EN/MELAMINE.pdf";
 class Details extends Component {
     render() {
         return (
