@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bfa3b79e21c9418a3e21589f452a5f78",
+    "revision": "2f2b5a68cefb70aaf8f19f46e7df53e8",
     "url": "/matplaza.ph/index.html"
   },
   {
-    "revision": "15f1a9ec7914ca219acd",
-    "url": "/matplaza.ph/static/css/main.e6d9cd6c.chunk.css"
+    "revision": "a7309f3c6f73a015406f",
+    "url": "/matplaza.ph/static/css/main.009ed8ff.chunk.css"
   },
   {
-    "revision": "aaacc9d8bb976e309990",
-    "url": "/matplaza.ph/static/js/2.36dac955.chunk.js"
+    "revision": "d01aa44545cac6702edc",
+    "url": "/matplaza.ph/static/js/2.552ebae2.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/matplaza.ph/static/js/2.36dac955.chunk.js.LICENSE.txt"
+    "url": "/matplaza.ph/static/js/2.552ebae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "15f1a9ec7914ca219acd",
-    "url": "/matplaza.ph/static/js/main.d7fb55ef.chunk.js"
+    "revision": "a7309f3c6f73a015406f",
+    "url": "/matplaza.ph/static/js/main.c3f8c55d.chunk.js"
   },
   {
     "revision": "cedfb9e0a1f8e52d6dfe",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "31d645dba72e5ef3cda0bcd1c0052b4c",
     "url": "/matplaza.ph/static/media/furniture.31d645db.jpg"
-  },
-  {
-    "revision": "fb033ec087ef81657e0e4e5f9051c226",
-    "url": "/matplaza.ph/static/media/home_automation.fb033ec0.jpg"
   },
   {
     "revision": "a34d7dfdcce7331dc528b60eb0bd4567",

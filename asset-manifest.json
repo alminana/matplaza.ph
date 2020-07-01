@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/matplaza.ph/static/css/main.e6d9cd6c.chunk.css",
-    "main.js": "/matplaza.ph/static/js/main.d7fb55ef.chunk.js",
-    "main.js.map": "/matplaza.ph/static/js/main.d7fb55ef.chunk.js.map",
+    "main.css": "/matplaza.ph/static/css/main.009ed8ff.chunk.css",
+    "main.js": "/matplaza.ph/static/js/main.c3f8c55d.chunk.js",
+    "main.js.map": "/matplaza.ph/static/js/main.c3f8c55d.chunk.js.map",
     "runtime-main.js": "/matplaza.ph/static/js/runtime-main.ca0765e3.js",
     "runtime-main.js.map": "/matplaza.ph/static/js/runtime-main.ca0765e3.js.map",
-    "static/js/2.36dac955.chunk.js": "/matplaza.ph/static/js/2.36dac955.chunk.js",
-    "static/js/2.36dac955.chunk.js.map": "/matplaza.ph/static/js/2.36dac955.chunk.js.map",
+    "static/js/2.552ebae2.chunk.js": "/matplaza.ph/static/js/2.552ebae2.chunk.js",
+    "static/js/2.552ebae2.chunk.js.map": "/matplaza.ph/static/js/2.552ebae2.chunk.js.map",
     "index.html": "/matplaza.ph/index.html",
-    "precache-manifest.1caa61d9fc8bd0708dac46eaf910cf21.js": "/matplaza.ph/precache-manifest.1caa61d9fc8bd0708dac46eaf910cf21.js",
+    "precache-manifest.97f4176032b0fd603787fe02581ad82d.js": "/matplaza.ph/precache-manifest.97f4176032b0fd603787fe02581ad82d.js",
     "service-worker.js": "/matplaza.ph/service-worker.js",
-    "static/css/main.e6d9cd6c.chunk.css.map": "/matplaza.ph/static/css/main.e6d9cd6c.chunk.css.map",
-    "static/js/2.36dac955.chunk.js.LICENSE.txt": "/matplaza.ph/static/js/2.36dac955.chunk.js.LICENSE.txt",
+    "static/css/main.009ed8ff.chunk.css.map": "/matplaza.ph/static/css/main.009ed8ff.chunk.css.map",
+    "static/js/2.552ebae2.chunk.js.LICENSE.txt": "/matplaza.ph/static/js/2.552ebae2.chunk.js.LICENSE.txt",
     "static/media/ARCHITECT.jpg": "/matplaza.ph/static/media/ARCHITECT.e114e2ec.jpg",
     "static/media/Furniture.gif": "/matplaza.ph/static/media/Furniture.263875da.gif",
     "static/media/Furnituretop.gif": "/matplaza.ph/static/media/Furnituretop.8919d259.gif",
@@ -33,7 +33,6 @@
     "static/media/fired.jpg": "/matplaza.ph/static/media/fired.b615802b.jpg",
     "static/media/firedoor.JPG": "/matplaza.ph/static/media/firedoor.638361fe.JPG",
     "static/media/furniture.jpg": "/matplaza.ph/static/media/furniture.31d645db.jpg",
-    "static/media/home_automation.jpg": "/matplaza.ph/static/media/home_automation.fb033ec0.jpg",
     "static/media/huosung.JPG": "/matplaza.ph/static/media/huosung.a34d7dfd.JPG",
     "static/media/icofont.min.css": "/matplaza.ph/static/media/icofont.f6ab04ae.woff",
     "static/media/office.jpg": "/matplaza.ph/static/media/office.69f7788e.jpg",
@@ -51,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ca0765e3.js",
-    "static/js/2.36dac955.chunk.js",
-    "static/css/main.e6d9cd6c.chunk.css",
-    "static/js/main.d7fb55ef.chunk.js"
+    "static/js/2.552ebae2.chunk.js",
+    "static/css/main.009ed8ff.chunk.css",
+    "static/js/main.c3f8c55d.chunk.js"
   ]
 }
