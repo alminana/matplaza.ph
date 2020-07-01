@@ -91,20 +91,20 @@ li {
 }
 @media screen and (max-width:768px){
     .imgresponsive{
-        max-width: 500px;
+        width: 100%
     }
     .nav.nav-tabs {
        padding: 12px;
-     width: 498px;
+       width: 350px;
     }
     button{
-        width: 475px;
+        width: 320px;
         border: none;
         background-color: lightskyblue;
         text-align: left;
     }
     .dropdown-menu{
-        width: 475px;
+        width: 320px;
         border: none;
         background:ghostwhite;
         text-align: left;

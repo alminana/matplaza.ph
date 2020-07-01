@@ -56,16 +56,16 @@ import logo from '../images/LOGO.png';
                                 <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link" href="#services">Product</a>
+                                <Link className="nav-link" to="/Details">Product</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="#team">Team</Link>
+                                <Link className="nav-link" to="/Team">Team</Link>
                             </li>
                             <li className="nav-item">
-                                <Link className="nav-link" to="#clients">Client</Link>
+                                <Link className="nav-link" to="/Details">Client</Link>
                             </li>
                                 <li className="nav-item">
-                                <Link className="nav-link" to="#contact">Contact</Link>
+                                <Link className="nav-link" to="/Contact">Contact</Link>
                             </li>
                         </ul>
                     </div>

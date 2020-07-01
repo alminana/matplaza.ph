@@ -269,6 +269,9 @@ class Home extends Component {
 
          
 
+
+         
+
               <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="200">
               <div className="row">
                       <div className="col-md-12">
