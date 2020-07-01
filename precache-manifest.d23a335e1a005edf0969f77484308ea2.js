@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fa2e8136fd2e4fd1e9eb8397864671b2",
+    "revision": "163d2ec108f5b55882cbee1c2f3df359",
     "url": "/matplaza.ph/index.html"
   },
   {
-    "revision": "0ab51b2fd0daf3d0b1e3",
-    "url": "/matplaza.ph/static/css/main.fdd3e66f.chunk.css"
+    "revision": "91a3e991c37fba302d8b",
+    "url": "/matplaza.ph/static/css/main.a7cf999e.chunk.css"
   },
   {
     "revision": "d01aa44545cac6702edc",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matplaza.ph/static/js/2.552ebae2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ab51b2fd0daf3d0b1e3",
-    "url": "/matplaza.ph/static/js/main.479df091.chunk.js"
+    "revision": "91a3e991c37fba302d8b",
+    "url": "/matplaza.ph/static/js/main.d7cb51ae.chunk.js"
   },
   {
     "revision": "cedfb9e0a1f8e52d6dfe",
@@ -34,10 +34,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8919d259b408da5ef4922d7886179c3c",
     "url": "/matplaza.ph/static/media/Furnituretop.8919d259.gif"
-  },
-  {
-    "revision": "cfeaf3a43f9a00093e1d175a1bb29b9f",
-    "url": "/matplaza.ph/static/media/MELAMINE.cfeaf3a4.pdf"
   },
   {
     "revision": "4b00a2df8cbbc8eb37b210e16903d964",
