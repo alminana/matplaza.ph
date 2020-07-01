@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import{Link} from 'react-router-dom';
 import '../assets/css/Details.css';
 import  Furnituretop from "../images/imagedetails/Furnituretop.gif";
 import  Furniture from "../images/imagedetails/Furniture.gif";
@@ -10,11 +11,11 @@ import  boardtop from "../images/imagedetails/boardtop.gif";
 import  boardcontent from "../images/imagedetails/boardcontent.gif";
 import  sanitarycontent from "../images/imagedetails/sanitarycontent.jpg";
 import  UPVC from "../images/imagedetails/UPVC.jpg";
-import  terracottatop from "../images/imagedetails/terracottatop.gif"
-import  terracottacontent from "../images/imagedetails/terracottacontent.gif"
-import  fired from "../images/imagedetails/fired.jpg"
-import  automation from "../images/imagedetails/automation.jpg"
-
+import  terracottatop from "../images/imagedetails/terracottatop.gif";
+import  terracottacontent from "../images/imagedetails/terracottacontent.gif";
+import  fired from "../images/imagedetails/fired.jpg";
+import  automation from "../images/imagedetails/automation.jpg";
+import F06Y from "../Files/BOARDS_EN/MELAMINE (F06Y) LPM.pdf";
 class Details extends Component {
     render() {
         return (
@@ -131,7 +132,7 @@ class Details extends Component {
                         <tr>
                           <td>1</td>
                           <td>MELAMINE (F06Y) LPM</td>
-                          <td><a href="../Files/BOARDS_EN/MELAMINE (F06Y) LPM.pdf">Download</a></td>
+                          <td><Link to={F06Y}>Download</Link></td>
                         </tr>
                         <tr>
                           <td>2</td>
